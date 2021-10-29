@@ -1,0 +1,17 @@
+* {
+    background-color: #F3F0D7;
+    color: #FFBF86;
+}
+#nombre {
+ 
+    font-family: sans-serif;
+    background-color: #f3f0d7;
+    color: #FED2AA;
+}
+.titulo {
+    background-color: #CEE5D0;
+}
+img {
+    height: 100px;
+    width: 200px;
+}
