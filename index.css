@@ -1,6 +1,7 @@
 * {
     background-color: #F3F0D7;
     color: #FFBF86;
+    display: block;
 }
 #nombre {
  
@@ -10,8 +11,29 @@
 }
 .titulo {
     background-color: #CEE5D0;
+    width: 40%;
 }
 img {
     height: 100px;
     width: 200px;
+}
+.lucia-trece {
+    background-color: aquamarine;
+}
+.lucia-trece:hover {
+    background-color: darkcyan;
+    color: FFBF86;
+}
+
+.quiñones-catorce {
+    background-color: cadetblue;
+    font-weight: bold;
+    color:#CEE5D0;
+}
+.quiñones-catorce:hover {
+    background-color: 99A799;
+    color: #FED2AA
+}
+h1:hover{
+    background-color: #CEE5D0;
 }
