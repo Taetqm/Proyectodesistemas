@@ -12,6 +12,7 @@
 .titulo {
     background-color: #CEE5D0;
     width: 40%;
+    display: inline;
 }
 img {
     height: 100px;
@@ -36,4 +37,7 @@ img {
 }
 h1:hover{
     background-color: #CEE5D0;
+}
+div {
+    display: inline;
 }
