@@ -23,6 +23,7 @@ img {
 }
 .lucia-trece {
     background-color: aquamarine;
+    width: 49%;
 }
 .lucia-trece:hover {
     background-color: darkcyan;
@@ -33,6 +34,7 @@ img {
     background-color: cadetblue;
     font-weight: bold;
     color:#CEE5D0;
+    width: 49;
 }
 .quiñones-catorce:hover {
     background-color: 99A799;
