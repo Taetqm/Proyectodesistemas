@@ -12,7 +12,10 @@
 .titulo {
     background-color: #CEE5D0;
     width: 33%;
-    display: inline;
+    display: inline-block;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
 }
 img {
     height: 100px;
