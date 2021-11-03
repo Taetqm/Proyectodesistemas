@@ -11,7 +11,7 @@
 }
 .titulo {
     background-color: #CEE5D0;
-    width: 33%;
+    width: 33.1%;
     display: inline-block;
     margin: 0px;
     border: 0px;
@@ -43,6 +43,7 @@ img {
 h1:hover{
     background-color: #CEE5D0;
 }
-div {
-    display: inline;
+div .texto {
+    width: 80%;
+    display: flexbox;
 }
