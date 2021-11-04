@@ -38,6 +38,9 @@ img {
     font-weight: bold;
     color:#CEE5D0;
     width: 49;
+    border-radius: 9px;
+    padding: 0.5em;
+    margin: 0.5em;
 }
 .quiñones-catorce:hover {
     background-color: #87AAAA;
@@ -49,6 +52,7 @@ h1:hover{
 .texto {
     width: 98%;
     display: flexbox;
+    
 }
 .izquierda {
     width: 48%;
