@@ -62,3 +62,8 @@ h1:hover{
     width: 48%;
     display: inline-block;
 }
+video {
+    height: 100px;
+    width: 200px;
+    padding: ;
+}
