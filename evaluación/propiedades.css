@@ -29,7 +29,7 @@
     color: FFBF86;
 }
 
-.quiñones-catorce {
+.keith-catorce {
     background-color: cadetblue;
     font-weight: bold;
     color:#CEE5D0;
@@ -38,6 +38,6 @@
     padding: 0.5em;
     margin: 0.5em;
 }
-.quiñones-catorce:hover {
+.keith-catorce:hover {
     background-color: #87AAAA;
-    color: #FED2AA
+    color: #FEF5ED
