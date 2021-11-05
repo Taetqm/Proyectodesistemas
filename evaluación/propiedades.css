@@ -1,0 +1,22 @@
+* {
+    background-color: #FEF5ED;
+    color: #ADC2A9;
+    display: block;
+}
+#nombre {
+ 
+    font-family: sans-serif;
+    background-color: #FEF5ED;
+    color: #ADC2A9;
+}
+.titulo {
+    background-color: #CEE5D0;
+    width: 33.1%;
+    display: inline-block;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    border-radius: 10px;
+    padding-left: 1em;
+    margin-left: 28px;
+}
