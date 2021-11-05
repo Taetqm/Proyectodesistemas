@@ -20,3 +20,24 @@
     padding-left: 1em;
     margin-left: 28px;
 }
+.dom-trece {
+    background-color: aquamarine;
+    width: 49%;
+}
+.dom-trece:hover {
+    background-color: darkcyan;
+    color: FFBF86;
+}
+
+.quiñones-catorce {
+    background-color: cadetblue;
+    font-weight: bold;
+    color:#CEE5D0;
+    width: 49;
+    border-radius: 9px;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+.quiñones-catorce:hover {
+    background-color: #87AAAA;
+    color: #FED2AA
